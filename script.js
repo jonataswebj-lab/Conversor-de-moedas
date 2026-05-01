@@ -70,7 +70,7 @@ function changeCurrency() {
 
     if (currencySelect.value == 'euro') {
         currencyName.innerHTML = 'Euro';
-        currencyImg.src = './Euro.png';
+        currencyImg.src = './euro.png';
     }
 
     if (currencySelect.value == 'libra') {
@@ -93,7 +93,6 @@ function changeCurrency() {
         currencyImg.src = './won.webp';
     }
 
-    console.log("forçando commit");
     convertValues();
 }
 
