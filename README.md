@@ -1,4 +1,4 @@
-<h1 align="center">7 - Conversor de Moedas</h1>
+<h1 align="center">Conversor de Moedas</h1>
 <img src="https://github.com/jonataswebj-lab/Primeiro-projeto-responsivo/blob/main/8%20-%20Conversor%20de%20Moedas/Imagem%20do%20Projeto.png?raw=true" width=650px alt="imagem-projeto-desafio" />
 <br>
 <h3 align="center">Tecnologias Utilizadas:</h3>
